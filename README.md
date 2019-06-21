@@ -18,6 +18,7 @@ This is an open-source repo.  If you would like to add something or correct a mi
 -   [Breadcrumb](./code-examples/breadcrumb.md)
 -   [Content Import With JSON](./code-examples/content-import-with-json.md)
 -   [Custom Content Area](./code-examples/custom-content-area.md)
+-   [Custom View In Asset Panel](./code-examples/custom-view-in-amind-panel.md)
 -   [Dojo Widget](./code-examples/dojo-widget.md)
 -   [Form That Posts Back To A Controller](./code-examples/form-that-posts-back-to-a-controller.md)
 -   [Login Block](./code-examples/episerver-login-block.md)
@@ -37,6 +38,9 @@ This is an open-source repo.  If you would like to add something or correct a mi
 
 [SignalR](https://github.com/jondjones/JonDJones.EpiserverSignalR): SignalR
 
+## Tools
+
+[Episerver Deployment Tool](./EpiserverDeploymentTool/README.md) Simple Devops Tool.  Will Delete All Tables From Your Episerver website and re-populate them using Initialze-epidatabase.  Useful for DXC as you can't delete and re-create a new database.
 
 ---
 [:arrow_up: BACK TO TOP](#getting-started) 
